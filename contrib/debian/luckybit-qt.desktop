@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Luckybit Core
+Comment=Luckybit P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Luckybit peer-to-peer Netzwerk
+Comment[fr]=Luckybit, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Luckybit, eşten eşe kriptografik sanal para birimi
+Exec=luckybit-qt %u
+Terminal=false
+Type=Application
+Icon=luckybit128
+MimeType=x-scheme-handler/luckybit;
+Categories=Office;Finance;
